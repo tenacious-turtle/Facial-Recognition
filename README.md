@@ -1,2 +1,1 @@
-# Facial-Recognition
-Transfer learning on face image data
+The application of computer vision for facial recognition has been a widely used technology in recent years. Platforms such as Google Images and Facebook utilize facial recognition for various purposes. Using the FastAI library for transfer learning, a dataset of facial expressions labeled into five different categories was used as the training set to correctly classify image data of faces. Using pretrained deep learning architectures, transfer learning was performed to add a final dense layer to build two models, one based on ResNet34 and the other on VGG19. Exploratory data analysis was then done on resulting metrics.
